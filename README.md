@@ -1,5 +1,3 @@
-Here's your text with some emojis added to make it more engaging while keeping it professional:
-
 # Odoo Sales Process Implementation for Mytek 🚀
 
 ## Overview 📝
